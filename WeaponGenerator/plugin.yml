@@ -1,0 +1,14 @@
+name: WeaponGenerator
+version: 1_c
+main: org.hcraid.weapongen.Main
+author: danslayerx
+description: Generates Legendary, Heroic and more.
+commands:
+   weapon:
+      description: Debug command for Raid
+   case:
+      description: Debug command for Raid
+   vote:
+      description: Voting Links
+   reward:
+      description: BuyCraft
